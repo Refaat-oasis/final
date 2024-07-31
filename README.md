@@ -12,7 +12,7 @@ this is our final project
 6.  Aya Mostafa
 7.  Khadija Ashry
 8.  jolly John
-9.  Sherwet Sherief
+9.  Sherwet Sherif
 10. Mira Hany Samuel
 
 ### please make sure the you pull the changes before you work and push your work
